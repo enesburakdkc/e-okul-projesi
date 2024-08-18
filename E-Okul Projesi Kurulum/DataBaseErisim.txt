@@ -1,0 +1,1 @@
+Data Source=DataBaseAdi;Initial Catalog=E-OkulProjesi;Integrated Security=True
